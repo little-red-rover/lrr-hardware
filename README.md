@@ -1,4 +1,4 @@
-# HARDWARE
+# Little Red Rover Hardware
 
 <p align="center">
   <img alt="Splash image of LRR CAD" width="750" height="auto" src="./assets/lrr_hardware_splash.png">
