@@ -12,7 +12,7 @@ It is composed of:
 
 * one PCB body
 * nine 3D printed components (one front skid, two motor mounts, two attachment shims, four spacers)
-* two [TT motors](https://www.adafruit.com/product/3777?gad_source=1&gclid=CjwKCAjw26KxBhBDEiwAu6KXt5uG3_2NXlyCQ1a62bnWJBUqD17JV0xqHqTxL5mOxYhjMxGvXihpPxoCFa0QAvD_BwE)
+* two [TT motors](https://category.yahboom.net/products/encoder-tt-motor)
 * two [wheels](https://www.adafruit.com/product/3766?gad_source=1&gclid=CjwKCAjw26KxBhBDEiwAu6KXt0UVN-z849ObhwJ45LRUqls9ojR2lNufE6720qHnvX_B1n_j5iZLehoCHT0QAvD_BwE)
 * one [LD20 LiDAR](https://www.youyeetoo.com/products/youyeetoo-fhl-ld20)
 * three M3 screws
